@@ -1,6 +1,6 @@
 # Agent Instructions
 
-Guidelines for AI agents working on this codebase.
+Guidelines for AI agents working on this codebase. 
 
 ## Project Overview
 
