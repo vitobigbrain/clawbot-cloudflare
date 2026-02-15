@@ -47,7 +47,7 @@ src/
 - `DEBUG_ROUTES` - Enables `/debug/*` routes (disabled by default)
 - See `src/types.ts` for full `MoltbotEnv` interface
 
-### CLI Commands
+### CLI Commands 
 
 When calling the OpenClaw CLI from the worker, always include `--url ws://localhost:18789`:
 ```typescript
